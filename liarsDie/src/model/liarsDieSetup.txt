@@ -1,4 +1,4 @@
-LIARS DIE - JAVA
+LIARS DIE - JAVA (multiplayer)
 - What we need
 	- Dice (class)
 		- roll function
