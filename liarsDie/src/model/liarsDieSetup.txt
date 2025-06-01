@@ -1,0 +1,16 @@
+LIARS DIE - JAVA
+- What we need
+	- Dice (class)
+		- roll function
+	- Cup (class)
+		- Start with 5 dice
+		- Remove die
+		- Add die
+	- Table (class)
+		- play round
+			- player makes call
+			- check dice
+			- update dice
+	- Players? (class)
+		- has cup
+		- makes guess
